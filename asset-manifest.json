@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RJCafe/static/css/main.f855e6bc.css",
-    "main.js": "/RJCafe/static/js/main.7b791db1.js",
+    "main.js": "/RJCafe/static/js/main.9e97107d.js",
     "static/js/453.93345656.chunk.js": "/RJCafe/static/js/453.93345656.chunk.js",
     "index.html": "/RJCafe/index.html",
     "main.f855e6bc.css.map": "/RJCafe/static/css/main.f855e6bc.css.map",
-    "main.7b791db1.js.map": "/RJCafe/static/js/main.7b791db1.js.map",
+    "main.9e97107d.js.map": "/RJCafe/static/js/main.9e97107d.js.map",
     "453.93345656.chunk.js.map": "/RJCafe/static/js/453.93345656.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.7b791db1.js"
+    "static/js/main.9e97107d.js"
   ]
 }
